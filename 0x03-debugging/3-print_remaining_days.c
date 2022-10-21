@@ -4,7 +4,7 @@
  * print_remaining_days - Output works correctly for all dates and all
  * leap years
  * @month: month of the year
- * @day: day of year
+ * @day: day of the year
  * @year: int year
  * Return: Always 0
  */
