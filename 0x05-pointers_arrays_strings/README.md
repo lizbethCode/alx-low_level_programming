@@ -1,2 +1,6 @@
-[master 1b6f4db] Strlen
- 2 files changed, 4 insertions(+), 4 deletions(-)
+[master d2c72f5] Main
+ 6 files changed, 41 insertions(+), 2 deletions(-)
+ create mode 100644 0x05-pointers_arrays_strings/3-main.c
+ create mode 100755 0x05-pointers_arrays_strings/3-puts
+ create mode 100644 0x05-pointers_arrays_strings/3-puts.c
+ create mode 100644 0x05-pointers_arrays_strings/_putchar.c
