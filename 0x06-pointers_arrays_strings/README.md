@@ -1,4 +1,14 @@
-[master a6cd7e5] Leet
- 3 files changed, 4 insertions(+), 2 deletions(-)
- rename 0x06-pointers_arrays_strings/{.7-leet.c.swp => 7-1337} (51%)
- mode change 100644 => 100755
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ../0x05-pointers_arrays_strings/README.md
+	modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
