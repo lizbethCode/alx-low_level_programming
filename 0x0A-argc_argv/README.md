@@ -1,4 +1,3 @@
-[master 642c0a0] Whatsmyname
- 2 files changed, 13 insertions(+)
- create mode 100644 0x0A-argc_argv/0-whatsmyname.c
- create mode 100644 0x0A-argc_argv/README.md
+[master 85ccf8f] args
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+ create mode 100644 0x0A-argc_argv/1-args.c
