@@ -1,3 +1,3 @@
-[master aca5e2b] print
- 3 files changed, 9 insertions(+), 8 deletions(-)
- create mode 100755 0x02-functions_nested_loops/11-98
+[master d9cd6ed] timetable
+ 2 files changed, 50 insertions(+), 25 deletions(-)
+ rewrite 0x02-functions_nested_loops/100-times_table.c (88%)
