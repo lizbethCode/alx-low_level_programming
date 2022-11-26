@@ -1,3 +1,3 @@
-[master 5cf5ffb] palindrome
- 1 file changed, 44 insertions(+)
- create mode 100644 0x08-recursion/100-is_palindrome.c
+[master 35e0f46] wildcmp
+ 2 files changed, 23 insertions(+), 1 deletion(-)
+ create mode 100644 0x08-recursion/101-wildcmp.c
