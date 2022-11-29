@@ -1,5 +1,5 @@
-[master 6db1cf3] pop
- 4 files changed, 70 insertions(+), 5 deletions(-)
- create mode 100644 0x13-more_singly_linked_lists/6-main.c
- create mode 100644 0x13-more_singly_linked_lists/6-pop_listint.c
- create mode 100755 0x13-more_singly_linked_lists/g
+[master 01b09f7] 7-get_nodeint
+ 4 files changed, 56 insertions(+), 5 deletions(-)
+ create mode 100644 0x13-more_singly_linked_lists/7-get_nodeint.c
+ create mode 100644 0x13-more_singly_linked_lists/7-main.c
+ create mode 100755 0x13-more_singly_linked_lists/h
